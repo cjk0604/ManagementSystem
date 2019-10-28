@@ -1,5 +1,5 @@
 # ManagementSystem
-#### Admin dashboard that provides internal information to manage the firm with transparent output by TDD
+#### Admin dashboard that provides internal information to manage the firm with transparent output
 
 ## Technology Stacks:
-#### Java, Spring Boot, MySQL, Vue.js
+#### Java, Spring Boot, RESTful API, MySQL, Vue.js, TDD
